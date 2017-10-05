@@ -1,0 +1,10 @@
+C:\Users\Asscher\source\repos\Kevin\Kevin\bin\Debug\Kevin.exe.config
+C:\Users\Asscher\source\repos\Kevin\Kevin\bin\Debug\Kevin.exe
+C:\Users\Asscher\source\repos\Kevin\Kevin\bin\Debug\Kevin.pdb
+C:\Users\Asscher\source\repos\Kevin\Kevin\obj\Debug\Kevin.csprojResolveAssemblyReference.cache
+C:\Users\Asscher\source\repos\Kevin\Kevin\obj\Debug\Kevin.Form1.resources
+C:\Users\Asscher\source\repos\Kevin\Kevin\obj\Debug\Kevin.Properties.Resources.resources
+C:\Users\Asscher\source\repos\Kevin\Kevin\obj\Debug\Kevin.csproj.GenerateResource.Cache
+C:\Users\Asscher\source\repos\Kevin\Kevin\obj\Debug\Kevin.csproj.CoreCompileInputs.cache
+C:\Users\Asscher\source\repos\Kevin\Kevin\obj\Debug\Kevin.exe
+C:\Users\Asscher\source\repos\Kevin\Kevin\obj\Debug\Kevin.pdb
